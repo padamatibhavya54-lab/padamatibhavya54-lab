@@ -79,15 +79,7 @@ Fun Fact: "From learning SQL to building AI-powered projects, I'm always learnin
 <br clear="right"/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 
-<h3>🎓 Education</h3>
 
-<b>B.Tech CSE – Data Science</b><br/>
-Malla Reddy Deemed to be University — <i>2024–Present</i><br/>
-<sub>Specializing in Data Science, Data Analytics, Python, SQL, AI and Data Visualization.</sub>
-
-</td>
-</tr>
-</table>
 
 🔥 "From learning concepts to building real projects, my journey is driven by curiosity, consistency, and the desire to keep learning."
 
