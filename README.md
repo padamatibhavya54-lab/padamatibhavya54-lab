@@ -116,7 +116,6 @@ Malla Reddy Deemed to be University — <i>2025–Present</i><br/>
 </tr>
 </table>
 
-🔥 "From learning concepts to building real projects, my journey is driven by curiosity, consistency, and the desire to keep learning."
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
